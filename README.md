@@ -1,1 +1,1 @@
-# Imagenes
+# Banco de Imagenes
